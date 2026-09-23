@@ -6,6 +6,20 @@ Statecraft Lab is an interactive geopolitical and historical decision-making sim
 
 [View the live experience](https://statecraft-lab.netlify.app/)
 
+## Screenshots
+
+### Command center
+
+![Statecraft Lab command center](docs/screenshots/command-center.jpg)
+
+### Scenario dossier
+
+![The Cuban Missile Crisis scenario dossier](docs/screenshots/scenario-dossier.jpg)
+
+### Intelligence desk
+
+![Intelligence report selection interface](docs/screenshots/intelligence-desk.jpg)
+
 ## Why I built it
 
 I studied International Relations at Jagiellonian University, where we worked through political strategy exercises and considered how decision-makers respond to complex situations under pressure. Those discussions inspired this project because strategic decision-making is a fascinating subject—and because it becomes much less obvious when hindsight is removed.
@@ -88,4 +102,3 @@ pnpm run lint
 ## Current scope
 
 The Cuban Missile Crisis is the deepest scenario and includes a second reactive decision moment. The remaining historical scenarios use the shared simulation framework with one principal decision and an evolving response. Deeper negotiation rounds, richer operational maps, and counterfactual replay branches are natural areas for future development.
-
