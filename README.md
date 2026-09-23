@@ -4,7 +4,7 @@
 
 Statecraft Lab is an interactive geopolitical and historical decision-making simulator. It places the player inside political, diplomatic, military, economic, and intelligence crises where information is incomplete, advisers disagree, and every available option carries a cost.
 
-[View the live experience](https://statecraft-lab.netlify.app/)
+[Statecraft lab](https://statecraft-lab.netlify.app/)
 
 ## Screenshots
 
@@ -20,7 +20,7 @@ Statecraft Lab is an interactive geopolitical and historical decision-making sim
 
 ![Intelligence report selection interface](docs/screenshots/intelligence-desk.jpg)
 
-## The idea 
+## The origins 
 
 I studied International Relations at Jagiellonian University, where we worked through political strategy exercises and considered how decision-makers respond to complex situations under pressure. Those discussions inspired this project because strategic decision-making is a fascinating subject—and because it becomes much less obvious when hindsight is removed.
 
