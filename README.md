@@ -20,7 +20,7 @@ Statecraft Lab is an interactive geopolitical and historical decision-making sim
 
 ![Intelligence report selection interface](docs/screenshots/intelligence-desk.jpg)
 
-## Why I built it
+## The idea 
 
 I studied International Relations at Jagiellonian University, where we worked through political strategy exercises and considered how decision-makers respond to complex situations under pressure. Those discussions inspired this project because strategic decision-making is a fascinating subject—and because it becomes much less obvious when hindsight is removed.
 
